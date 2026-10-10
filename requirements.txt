@@ -1,2 +1,6 @@
 sounddevice
+funasr
 silero-vad
+torch
+numpy
+websockets
